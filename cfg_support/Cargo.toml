@@ -3,7 +3,7 @@
 
 [package]
 name = "tectonic_cfg_support"
-version = "0.0.0-dev.0"  # assigned with cranko (see README)
+version = "0.0.3"
 authors = [
     "Matt Rice <ratmice@gmail.com>",
     "Peter Williams <peter@newton.cx>"
